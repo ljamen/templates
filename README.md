@@ -12,8 +12,9 @@ Dependencies
 Prerequisites
 
 What is a (common feature/component/concept)?
-Here you can describe a basic terms or functions that the user will need to understand before starting a project.
-DO NOT repeat open source doc that is covered in another repository. Link to that info. 
+
+Here you can describe the basic terms or functions that the user will need to understand before starting a project.
+DO NOT repeat open source doc that is covered in another repository. Link to that info. This is terminology that is specific to this project or used in a different/specific way.
 
 ## Usage or Getting Started
 Desribe what the module looks like in action. Don't rely on screenshots to tell the story. Be descriptive, include examples but be brief. 
