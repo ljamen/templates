@@ -3,6 +3,17 @@
 
 A high-level overview of what your project is and what is does.
 
+  * [Before You Begin](#before-you-begin)
+  * [Get Started](#get-started)
+  * [Install](#install)
+  * [Build](#build)
+  * [Deploy](#deploy)
+  * [Test](#test)
+  * [Learn More](#learn-more)
+  * [Get Help](#get-help)
+  * [Get Involved](#get-involved)
+  * [Stay Informed](#stay-informed)
+
 
 ## Before You Begin
 Make sure the user understands what needs to be in place BEFORE they start. Also, make sure that the user knows what the project will NOT cover. For example, if there is an assumption that the user is already familiar with the master project, state that and provide a link. Most of our services will be for advanced users. 
@@ -63,8 +74,6 @@ End with an example of getting some data out of the system or using it for a lit
 Optional
 Explain how to run the automated tests for this system. 
 link to separate testing file if complicated
-
-# Next Steps
 
 
 ## Learn More
