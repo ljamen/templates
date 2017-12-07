@@ -1,28 +1,30 @@
 # Project Title
 
-A high-level overview of what your project is and what is does.
+One-liner: A high-level overview of what your project is and what is does.
 
 Project X is a ______ that makes it easy for you to __________________________.
 
 ## Before You Begin
+Make sure the user understands what needs to be in place BEFORE they start. Also, make sure that the user knows what the project will NOT cover. For example, if there is an assumption that the user is already familiar with the master project, state that and provide a link. Most of our services will be for advanced users. 
 
-### When to use PROJECT X?
-A basic use case scenario that the user can read and understand.These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Dependencies
 
-### Dependencies
+Prerequisites
 
-### Prerequisites
-
-### What is a (common feature/component/concept)?
+What is a (common feature/component/concept)?
 Here you can describe a basic terms or functions that the user will need to understand before starting a project.
 DO NOT repeat open source doc that is covered in another repository. Link to that info. 
 
-## Getting Started
+## Usage or Getting Started
+Desribe what the module looks like in action. Don't rely on screenshots to tell the story. Be descriptive, include examples but be brief. 
+
+```
+Give examples
+Include the example code in Usage as a file in your repo -- maybe as example.js. Users should be able to run if they clone the repository.
+```
 
 
-
-
-### Install
+## Install
 
 What things you need to install the software and how to install them
 
@@ -30,10 +32,10 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Deploy
+## Deploy
 
 A step by step series of examples that tell you have to get a development env running
-(this could link to a separate file if complicated or lengthy)
+(NOTE: this could link to a separate file if complicated or lengthy)
 
 Say what the step will be
 
@@ -47,10 +49,11 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+End with an example of getting some data out of the system or using it for a little demo (Again this should probably be in a separte file.)
 
 ## Test 
 
+Optional
 Explain how to run the automated tests for this system. 
 link to separate testing file if complicated
 
