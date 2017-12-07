@@ -1,26 +1,28 @@
 # Project Title
 
-One Paragraph of project description goes here
-
-## Before You Begin
-
-### What is PROJECT X?
-
 A high-level overview of what your project is and what is does.
 
 Project X is a ______ that makes it easy for you to __________________________.
 
+## Before You Begin
+
 ### When to use PROJECT X?
-A basic use case scenario that the user can read and understand.
+A basic use case scenario that the user can read and understand.These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Dependencies
+
+### Prerequisites
 
 ### What is a COMMON FEATURE/COMPONENT/CONCEPT?
-Here you can describe a basic term or function that the user will need to understand before starting a project.
+Here you can describe a basic terms or functions that the user will need to understand before starting a project.
+DO NOT repeat open source doc that is covered in another repository. Link to that info. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+
+
+### Install
 
 What things you need to install the software and how to install them
 
@@ -28,11 +30,10 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-
-
-## Installing
+### Deploy
 
 A step by step series of examples that tell you have to get a development env running
+(this could link to a separate file if complicated or lengthy)
 
 Say what the step will be
 
@@ -48,59 +49,26 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Test 
 
-Explain how to run the automated tests for this system
+Explain how to run the automated tests for this system. 
+link to separate testing file if complicated
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### Coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deploying to a live system
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](link) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use (insert version tool name) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+This project is licensed under the some-such License - see the [LICENSE.md](LICENSE.md) file for details
 
 
