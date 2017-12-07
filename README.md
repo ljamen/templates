@@ -61,7 +61,7 @@ link to separate testing file if complicated
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](link) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md] (https://github.com/ljamen/templates/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -69,7 +69,7 @@ We use (insert version tool name) for versioning. For the versions available, se
 
 ## Authors
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ljamen/templates/contributors) who participated in this project.
 
 ## License
 
