@@ -13,7 +13,7 @@ A basic use case scenario that the user can read and understand.These instructio
 
 ### Prerequisites
 
-### What is a COMMON FEATURE/COMPONENT/CONCEPT?
+### What is a (common feature/component/concept)?
 Here you can describe a basic terms or functions that the user will need to understand before starting a project.
 DO NOT repeat open source doc that is covered in another repository. Link to that info. 
 
