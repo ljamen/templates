@@ -50,7 +50,7 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo (Again this should probably be in a separte file.)
+End with an example of getting some data out of the system or using it for a little demo (Again this should probably be in a separate file.)
 
 ## Test 
 
