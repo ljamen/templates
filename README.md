@@ -1,8 +1,7 @@
+(include project icon/image if available)
 # Project Title
 
-One-liner: A high-level overview of what your project is and what is does.
-
-Project X is a ______ that makes it easy for you to __________________________.
+A high-level overview of what your project is and what is does.
 
 
 ## Before You Begin
@@ -21,8 +20,8 @@ What is a (common feature/component/concept)?
 Here you can describe the basic terms or functions that the user will need to understand before starting a project.
 DO NOT repeat open source doc that is covered in another repository. Link to that info. This is terminology that is specific to this project or used in a different/specific way.
 
-## Usage or Getting Started
-Desribe what the module looks like in action. Don't rely on screenshots to tell the story. Be descriptive, include examples but be brief. 
+## Get Started
+Describe what the module looks like in action. Do not rely on screenshots to tell the story. Be descriptive, include examples but be brief. 
 
 ```
 Give examples
@@ -65,14 +64,15 @@ Optional
 Explain how to run the automated tests for this system. 
 link to separate testing file if complicated
 
+# Next Steps
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/ljamen/templates/CONTRIBUTING.md ) for details on our code of conduct, and the process for submitting pull requests to us.
+## Learn More
 
-## Versioning
+## Get Help
 
-We use (insert version tool name) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+## Get Involved
 
+## Stay Informed
 
 
