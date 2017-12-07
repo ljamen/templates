@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here
 
-##Before You Begin
+## Before You Begin
 
 ### What is <PROJECT X>?
 
