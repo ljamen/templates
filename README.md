@@ -73,12 +73,5 @@ Please read [CONTRIBUTING.md](https://github.com/ljamen/templates/CONTRIBUTING.m
 
 We use (insert version tool name) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
-
-See also the list of [contributors](https://github.com/ljamen/templates/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the some-such License - see the [LICENSE.md](LICENSE.md) file for details
 
 
