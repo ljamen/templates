@@ -4,7 +4,6 @@ One-liner: A high-level overview of what your project is and what is does.
 
 Project X is a ______ that makes it easy for you to __________________________.
 
-`{:toc max_level=3 }`
 
 ## Before You Begin
 Make sure the user understands what needs to be in place BEFORE they start. Also, make sure that the user knows what the project will NOT cover. For example, if there is an assumption that the user is already familiar with the master project, state that and provide a link. Most of our services will be for advanced users. 
