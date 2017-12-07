@@ -8,9 +8,11 @@ Project X is a ______ that makes it easy for you to __________________________.
 Make sure the user understands what needs to be in place BEFORE they start. Also, make sure that the user knows what the project will NOT cover. For example, if there is an assumption that the user is already familiar with the master project, state that and provide a link. Most of our services will be for advanced users. 
 
 Dependencies
+
 On other projects, etc.
 
 Prerequisites
+
 Installations and configurations that should already be in place. 
 
 What is a (common feature/component/concept)?
