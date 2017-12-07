@@ -68,6 +68,10 @@ link to separate testing file if complicated
 
 
 ## Learn More
+- See our [documentation](https://github.com/ljamen/templates/)
+- View our examples
+- Visit our YouTube Channel
+- See our API Docs
 
 ## Get Help
 
