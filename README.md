@@ -4,16 +4,16 @@ One Paragraph of project description goes here
 
 ## Before You Begin
 
-### What is <PROJECT X>?
+### What is PROJECT X?
 
 A high-level overview of what your project is and what is does.
 
 Project X is a ______ that makes it easy for you to __________________________.
 
-### When to use <PROJECT X>?
+### When to use PROJECT X?
 A basic use case scenario that the user can read and understand.
 
-### What is a <COMMON FEATURE/COMPONENT/CONCEPT>?
+### What is a COMMON FEATURE/COMPONENT/CONCEPT?
 Here you can describe a basic term or function that the user will need to understand before starting a project.
 
 ## Getting Started
