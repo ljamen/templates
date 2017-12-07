@@ -34,6 +34,8 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+## Build
+If applicable for your project
 
 ## Deploy
 
