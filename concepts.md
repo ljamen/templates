@@ -16,8 +16,6 @@ Topics:
 
 A concept explains some aspect of the project, such as what it does and why it does it. It usually doesn't include sequences of steps, but it may provide links to tasks or tutorials. 
 
-Include a short summary of this topic. 
-
 Write at least one more paragraph.
 
 
