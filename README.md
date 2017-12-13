@@ -1,7 +1,7 @@
-(include project icon/image if available)
+<include project icon/image if available>
 # Project Title
 
-A high-level overview of what your project is and what is does.
+<Provide a high-level overview of what your project is and what is does.>
 
   * [Before You Begin](#before-you-begin)
   * [Get Started](#get-started)
@@ -16,17 +16,17 @@ A high-level overview of what your project is and what is does.
 
 
 ## Before You Begin
-Make sure the user understands what needs to be in place BEFORE they start. Also, make sure that the user knows what the project will NOT cover. For example, if there is an assumption that the user is already familiar with the master project, state that and provide a link. Most of our services will be for advanced users. 
+<Make sure the user understands what needs to be in place BEFORE they start. Also, make sure that the user knows what the project will NOT cover. For example, if there is an assumption that the user is already familiar with the master project, state that and provide a link. Most of our services will be for advanced users.>
 
-Dependencies
+* Dependencies
 
-On other projects, etc.
+<On other projects, etc.>
 
-Prerequisites
+* Prerequisites
 
-Installations and configurations that should already be in place. 
+<Installations and configurations that should already be in place. >
 
-What is a (common feature/component/concept)?
+* What is a (common feature/component/concept)?
 
 Here you can describe the basic terms or functions that the user will need to understand before starting a project.
 DO NOT repeat open source doc that is covered in another repository. Link to that info. This is terminology that is specific to this project or used in a different/specific way.
@@ -71,7 +71,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Test 
 
-Optional
+<Optional>
 Explain how to run the automated tests for this system. 
 link to separate testing file if complicated
 
@@ -83,9 +83,14 @@ link to separate testing file if complicated
 - See our API Docs
 
 ## Get Help
+ - 
 
 ## Get Involved
+- link to root project
+- link to contributions
 
 ## Stay Informed
+- link to project channels
+
 
 
